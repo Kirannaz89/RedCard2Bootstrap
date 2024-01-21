@@ -1,0 +1,27 @@
+.header {
+	background-color: maroon;
+	letter-spacing: 2px;
+	color: white;
+}
+h3 {
+	color: black;
+}
+.img {
+float: right; 
+background-color: white;
+-ms-transform: rotate( 180deg); /* IE 9 */
+           transform: rotate(180deg);
+}
+big {
+	font-size: 30px;
+}
+.footer {
+	background-color: maroon;
+	letter-spacing: 2px;
+	color: white;
+
+}
+
+@media screen and (max-width:320px) {
+	
+}
